@@ -3481,6 +3481,4 @@ gui_venv/Scripts/uic.exe
 gui_venv/Scripts/xmlpatterns.exe
 gui_venv/Scripts/xmlpatternsvalidator.exe
 gui_venv/pyvenv.cfg
-serch.py
-serch_in_word.py
-serch_in_word.ui
+
